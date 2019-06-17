@@ -35,7 +35,7 @@ The Current Contributor Day will be from 9:00AM to 3:30PM in the Gold Hall.
 
 This day is for people who already contribute to Kubernetes and participate in its community and want a place to have working meetings, as well as contributors who have already taken the New Contributor Workshop and want to learn more in-depth contribution topics.
 
-Draft Schedule, subject to amendment:
+Current Schedule, subject to adjustment.  The final schedule will be available on the Sched app at the conference.
 
 | Time | Presentation Area | Discussion Area |
 | ---- | ----------------- | --------------- |
@@ -43,7 +43,7 @@ Draft Schedule, subject to amendment:
 | 9:15AM | Drafting a Kubenetes Enhancement Proposal | SIG API Machinery F2F Meeting |
 | 10:15AM | Kubernetes Codebase Tour | SIG Scheduling F2F Meeting |
 | 11:15AM | Non-Code Contributions | SIG Storage F2F Meeting |
-| 12:15PM | Lunch | Lunch |
+| 12:15PM | Lunch |
 | 1:30PM | Building Kubernetes Extensions | SIG Meeting TBD |
 | 2:30PM | Local Build & Test Troubleshooting | SIG Meeting TBD |
 
@@ -54,6 +54,8 @@ Contact[Josh Berkus](mailto:jberkus@redhat.com) if your SIG wants to have a face
 The Contributor Day will be held primarily in English, although one or two sessions may be in Chinese.
 
 ## Documentation Sprints
+
+The Documentation Sprints will be in Room 518 from 9:30am to 3:30pm.
 
 The Documentation Sprints are for community members who want to help the project by either writing original documentation, updating and improving our documentation, or by translating the existing documentation into Chinese and other languages.  
 
